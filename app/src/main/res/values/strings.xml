@@ -2,4 +2,6 @@
     <string name="app_name">EnglishPortugueseVocabBuilderApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">About</string>
+    <string name="words_ending_in_al">Words Ending in AL</string>
 </resources>

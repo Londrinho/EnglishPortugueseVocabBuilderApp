@@ -14,13 +14,11 @@
     <fragment
         android:id="@+id/aboutFragment"
         android:name="com.jimmy.englishportuguesevocabbuilderapp.AboutFragment"
-        android:label="AboutFragment"
-        tools:layout="@layout/fragment_about"
-        />
+        android:label="@string/about"
+        tools:layout="@layout/fragment_about" />
     <fragment
         android:id="@+id/alFragment"
         android:name="com.jimmy.englishportuguesevocabbuilderapp.AlFragment"
-        android:label="AlFragment"
-        tools:layout="@layout/fragment_al"
-        />
+        android:label="@string/words_ending_in_al"
+        tools:layout="@layout/fragment_al" />
 </navigation>
